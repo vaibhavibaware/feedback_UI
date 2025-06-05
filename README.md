@@ -12,6 +12,31 @@ HTML5
 CSS3
 JavaScript (ES6)
 
+# 💬 Feedback UI
+
+A clean and responsive **Feedback UI** built with **HTML, CSS, and JavaScript**. Users can select a rating (with emojis), leave a comment, and submit their feedback with smooth UX transitions.
+
+🔗 **Live Demo:** [https://vaibhavibaware.github.io/feedback_UI/](https://vaibhavibaware.github.io/feedback_UI/)
+
+---
+
+## ✨ Features
+
+- ⭐ **Select rating** (😡 😐 🙂 😍)
+- 📝 **Optional comment field**
+- 🚀 **Smooth animations and transitions**
+- 📱 **Fully responsive design**
+- 🔒 **No frameworks or libraries used** — pure HTML/CSS/JS
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+
+---
 
 💡 Future Enhancements
 🌐 Connect to backend to store feedback
